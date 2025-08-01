@@ -1,9 +1,9 @@
-# 🦝 Thomas — Fullstack Developer
+## 🦝 Thomas — Fullstack Developer
 
 I'm a visual-minded full-stack developer with a strong focus on detail, structure, and quality. </br>
 Currently studying Programming at UCLL in Leuven and continuously honing my skills through hands-on projects and learning.
 
-# 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="left">
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -24,8 +24,8 @@ Currently studying Programming at UCLL in Leuven and continuously honing my skil
 <br />
 <br />
 
-
-# 📊 GitHub Stats
+<!--
+## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaspoleyn&show_icons=true&theme=transparent)
 
 
