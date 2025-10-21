@@ -1,6 +1,6 @@
-## 🦝 Thomas — Fullstack Developer
+## 🦝 Thomas — Front-end Developer
 
-I'm a visual-minded full-stack developer with a strong focus on detail, structure, and quality. </br>
+I'm a visual-minded Front-end developer with a strong focus on detail, structure, and quality. </br>
 Currently studying Programming at UCLL in Leuven and continuously honing my skills through hands-on projects and learning.
 
 ## 🛠️ Tech Stack & Tools
